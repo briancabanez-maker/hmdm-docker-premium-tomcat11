@@ -1,0 +1,7 @@
+lib/
+*.war
+*.tar.gz
+*.zip
+volumes/
+.env
+ROOT.xml
